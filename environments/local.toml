@@ -9,7 +9,7 @@
   # Checkpoint interval in number of blocks.
   checkpointInterval = 2000
 
-  subgraphPath = "../graph-node/test/subgraph/eden"
+  subgraphPath = "./subgraph"
 
   # Enable state creation
   # CAUTION: Disable only if state creation is not desired or can be filled subsequently
